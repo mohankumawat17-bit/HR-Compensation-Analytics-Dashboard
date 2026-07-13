@@ -1,3 +1,8 @@
+## 💼 Business Problem
+
+HR teams need a centralized dashboard to monitor salary distribution, department-wise payroll costs, and workforce compensation. Manual reporting makes it difficult to compare departments and identify salary trends for better workforce planning.
+
+---
 # Employee Salary Dashboard (SQL + Power BI)
 
 ## Project Overview
@@ -9,7 +14,15 @@ The dashboard provides a clear view of total salary cost, average salary, employ
 and department-wise salary contribution.
 
 ---
+## 🎯 Business Objectives
 
+- Monitor department-wise salary distribution.
+- Analyze overall payroll cost.
+- Compare average salaries across departments.
+- Support HR reporting with interactive dashboards.
+- Enable data-driven workforce planning.
+
+---
 ## Tools & Technologies
 - MySQL
 - SQL
@@ -27,7 +40,17 @@ The dataset contains employee-level information with the following fields:
 
 ---
 
-## SQL Work
+## ❓ Business Questions
+
+- Which department has the highest payroll cost?
+- What is the average salary across departments?
+- Which department has the highest number of employees?
+- How is salary distributed across the organization?
+- Which departments contribute the most to total compensation cost?
+
+---
+
+## Analysis Process
 SQL was used to:
 - Retrieve employee data using SELECT queries
 - Perform aggregations using SUM, AVG, and COUNT
@@ -59,15 +82,35 @@ The Power BI dashboard includes:
 
 ---
 
-## Project Outcome
-This project demonstrates an end-to-end data analysis workflow:
-Excel / Database → SQL → Power BI Dashboard
+## 💡 Business Recommendations
 
-It highlights practical skills in data analysis, reporting, and dashboard creation
-using industry-relevant tools.
+- Monitor departments with higher payroll costs.
+- Review salary distribution periodically.
+- Use department-level insights for workforce planning.
+- Track compensation trends to support budgeting.
+- Build regular HR dashboards for management reporting.
+
+---
+
+## 📈 Business Impact
+
+This dashboard provides HR teams with a clear view of payroll distribution, department performance, and salary trends. It supports faster reporting and helps management make informed workforce planning decisions.
+
+---
+
+## 🚀 Skills Demonstrated
+
+- HR Analytics
+- Payroll Analysis
+- SQL Query Writing
+- KPI Development
+- Dashboard Design
+- Data Visualization
+- Business Reporting
+- Power BI
 
 ---
 
 ## Author
 Mohan Lal Kumawat  
-Data Analyst | SQL • Power BI • Excel
+Data Analyst | • Excel • SQL • Power BI • Python
